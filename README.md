@@ -2,7 +2,7 @@
 
 This is a collection of different data structures implemented in C#. This course
 can be found on Youtube and contains 8 hours of different algorithms explained by
-a google engineer.
+a google engineer named Williamfiset who is linked down below.
 
 I decided to implement the theory of these algorithms into code without looking at
 the source code on how to do it, this gave me a challenge to think how I would solve
@@ -12,6 +12,7 @@ The code in the video was programmed with Java, I decided to try to implement th
 basic functionality of these structures in C#.
 
 [Youtube link](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+[Williamfiset](https://github.com/williamfiset/data-structures)
 
 ## List of completed structures
 
