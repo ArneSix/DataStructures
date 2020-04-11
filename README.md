@@ -11,8 +11,8 @@ these problems and have a deeper understanding when to use certain data structur
 The code in the video was programmed with Java, I decided to try to implement the 
 basic functionality of these structures in C#.
 
-[Youtube link](https://www.youtube.com/watch?v=RBSGKlAvoiM)
-[Williamfiset](https://github.com/williamfiset/data-structures)
+- [Youtube link](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+- [Williamfiset](https://github.com/williamfiset/data-structures)
 
 ## List of completed structures
 
